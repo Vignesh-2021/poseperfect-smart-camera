@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "380250771409",
+    "project_id": "pose-c0f2d",
+    "storage_bucket": "pose-c0f2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380250771409:android:2cecfc1d5de06e528b1af0",
+        "android_client_info": {
+          "package_name": "com.example.oppo1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlTabA_nNlrEmlKBuKoXyu7z8fB4YFH2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
